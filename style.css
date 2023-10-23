@@ -1,0 +1,28 @@
+body{
+    margin: 0%;
+    background-color: rgb(85, 85, 79); 
+    
+}
+header{
+    background-color: rgba(175, 100, 237, 0.507);
+    padding: 2em;
+    margin-bottom: 0%;
+
+} 
+main{
+    background-color: rgb(158, 155, 155);
+    width: 80%;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 0%;
+    padding: 10px;
+    height: fit-content;
+}
+p{
+    size: 20px;
+}
+h1{
+    font-family: Impact, 'Arial Narrow Bold', sans-serif;
+    color: rgb(51, 177, 177);
+    text-align: center;
+}
